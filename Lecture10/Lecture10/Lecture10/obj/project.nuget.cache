@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b8uoWlF2RTKR+cQ+pAvzHsAyDq6zPcvjdJjhm7QPyOSKXsB3YapwhO5sWv2Ezv3hZCp+PM+x2+1TtEERB+Iicg==",
+  "dgSpecHash": "+guXp1KM0WKoLZplZI4K9gBUSnX2+qK9WFt0sRKkLXu59ZEO9hzgTTGFW0KA5ADG/KwlYL0/6UDi5fhp4kyxUw==",
   "success": true,
-  "projectFilePath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj",
+  "projectFilePath": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Robin\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
     "C:\\Users\\Robin\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

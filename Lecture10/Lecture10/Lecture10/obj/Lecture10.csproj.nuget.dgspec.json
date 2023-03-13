@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj": {}
+    "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj": {}
   },
   "projects": {
-    "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj": {
+    "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj",
+        "projectUniqueName": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj",
         "projectName": "Lecture10",
-        "projectPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj",
+        "projectPath": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj",
         "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
-        "outputPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\obj\\",
+        "outputPath": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config",

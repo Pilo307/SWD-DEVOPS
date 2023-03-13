@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj": {}
+    "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj": {}
   },
   "projects": {
-    "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj": {
+    "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj",
+        "projectUniqueName": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj",
         "projectName": "Phone",
-        "projectPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj",
+        "projectPath": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj",
         "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
-        "outputPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\obj\\",
+        "outputPath": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
