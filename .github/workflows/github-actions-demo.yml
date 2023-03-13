@@ -20,4 +20,15 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+      - name: Setup .NET Core
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '5.0.x'
+      - name: Restore dependencies
+        run: dotnet restore
+      - name: Build
+        run: dotnet build --configuration Release
+      - name: Run NUnit tests
+        run: dotnet test --filter Category=Unit
+
       - run: echo "🍏 This job's status is ${{ job.status }}."
