@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WORK\\git\\swd\\swd-git\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj": {}
+    "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj": {}
   },
   "projects": {
-    "C:\\WORK\\git\\swd\\swd-git\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj": {
+    "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WORK\\git\\swd\\swd-git\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj",
+        "projectUniqueName": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj",
         "projectName": "Lecture10_1",
-        "projectPath": "C:\\WORK\\git\\swd\\swd-git\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj",
+        "projectPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj",
         "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
-        "outputPath": "C:\\WORK\\git\\swd\\swd-git\\Lecture10\\Lecture10\\Lecture10_1\\obj\\",
+        "outputPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,30 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "JunitXml.TestLogger": {
+              "target": "Package",
+              "version": "[3.0.124, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

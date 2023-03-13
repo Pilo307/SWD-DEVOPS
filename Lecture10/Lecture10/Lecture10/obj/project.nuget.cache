@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "Sc8ofIZ7VVBW1BN3ASqulkf03RruOi5APgCwE7rwQTZx2X7xr8EQUlTSldK3gQun/D1mAoMXa0KUP/thy+nReQ==",
+  "dgSpecHash": "b8uoWlF2RTKR+cQ+pAvzHsAyDq6zPcvjdJjhm7QPyOSKXsB3YapwhO5sWv2Ezv3hZCp+PM+x2+1TtEERB+Iicg==",
   "success": true,
-  "projectFilePath": "C:\\WORK\\git\\swd\\swd-git\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robin\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\junitxml.testlogger\\3.0.124\\junitxml.testlogger.3.0.124.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\nsubstitute\\5.0.0\\nsubstitute.5.0.0.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -5,7 +5,7 @@ using Lecture10_1;
 
 class Program
 {
-    static int Main()
+    /*static int Main()
     {
 
         Flashlight myFlashlight = new Flashlight();
@@ -32,5 +32,5 @@ class Program
 
 
         return 0;
-    }
+    }*/
 }

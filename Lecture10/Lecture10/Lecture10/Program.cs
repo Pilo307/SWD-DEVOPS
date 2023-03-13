@@ -4,7 +4,7 @@ using Lecture10;
 
 class Program
 {
-    static int Main()
+    /*static int Main()
     {
         SwitchCase myFLashLight = new SwitchCase();
 
@@ -14,5 +14,5 @@ class Program
         myFLashLight.setSwitchState("OFF", "Solid");
 
         return 0;
-    }
+    }*/
 }

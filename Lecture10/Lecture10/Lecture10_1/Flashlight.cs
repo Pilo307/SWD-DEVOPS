@@ -25,9 +25,9 @@ namespace Lecture10_1
         public Flashlight()
         {
             _currentMode = FlashLightMode.Solid;
-            _currentState = FlashLightState.Off;
-            _currentStateHandler = new Off();
-            _currentModeHandler = new Blinking();
+            _currentState = FlashLightState.On;
+            _currentStateHandler = new On();
+            _currentModeHandler = new Solid();
         }
         
         public void PowerPressed()
