@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Program" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lecture10_1.FlashlightState">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FlashlightState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lecture10_1.Flashlight">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Lecture10_1.Flashlight.FlashLightEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Flashlight.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Lecture10_1.Flashlight.FlashLightState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Flashlight.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Lecture10_1.Flashlight.FlashLightMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Flashlight.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CgAAAAABAAAAAAAAgAAAAAAAAABIIAAAAAAAAAACgBA=</HashCode>
+      <FileName>Flashlight.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_currentStateHandler" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lecture10_1.Off" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Off.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lecture10_1.On">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>On.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lecture10_1.Blinking">
+    <Position X="6.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Blinking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lecture10_1.Solid">
+    <Position X="9" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Solid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

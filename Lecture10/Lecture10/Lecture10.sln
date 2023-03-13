@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lecture10", "Lecture10\Lecture10.csproj", "{821861F5-82AB-4BD5-BD9D-54016C06205E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lecture10_1", "Lecture10_1\Lecture10_1.csproj", "{EB788FBE-0865-42E2-8546-43AD49AEE888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phone", "Phone\Phone.csproj", "{06C42D77-2E95-40EA-8B0C-8BFD3761B549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821861F5-82AB-4BD5-BD9D-54016C06205E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821861F5-82AB-4BD5-BD9D-54016C06205E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821861F5-82AB-4BD5-BD9D-54016C06205E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821861F5-82AB-4BD5-BD9D-54016C06205E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB788FBE-0865-42E2-8546-43AD49AEE888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB788FBE-0865-42E2-8546-43AD49AEE888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB788FBE-0865-42E2-8546-43AD49AEE888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB788FBE-0865-42E2-8546-43AD49AEE888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C42D77-2E95-40EA-8B0C-8BFD3761B549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C42D77-2E95-40EA-8B0C-8BFD3761B549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C42D77-2E95-40EA-8B0C-8BFD3761B549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C42D77-2E95-40EA-8B0C-8BFD3761B549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F66DF028-AEA7-4A7A-85F8-B8F93090EB45}
+	EndGlobalSection
+EndGlobal
