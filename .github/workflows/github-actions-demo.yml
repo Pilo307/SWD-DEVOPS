@@ -25,7 +25,7 @@ jobs:
         with:
           dotnet-version: '5.0.x'
       - name: Restore dependencies
-        run: cd ../Lecture10/Lecture10 && dotnet restore
+        run: cd Lecture10/Lecture10 && dotnet restore
       - name: Build
         run: dotnet build --configuration Release
       - name: Run NUnit tests
