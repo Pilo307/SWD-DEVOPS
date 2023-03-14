@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj": {}
+    "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj": {}
   },
   "projects": {
-    "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj": {
+    "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj",
+        "projectUniqueName": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj",
         "projectName": "Phone",
-        "projectPath": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj",
+        "projectPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\Phone.csproj",
         "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\obj\\",
+        "outputPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Phone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

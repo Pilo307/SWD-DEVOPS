@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1.test\\Lecture10_1.test.csproj": {}
+    "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1.test\\Lecture10_1.test.csproj": {}
   },
   "projects": {
-    "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1.test\\Lecture10_1.test.csproj": {
+    "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1.test\\Lecture10_1.test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1.test\\Lecture10_1.test.csproj",
+        "projectUniqueName": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1.test\\Lecture10_1.test.csproj",
         "projectName": "Lecture10_1.test",
-        "projectPath": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1.test\\Lecture10_1.test.csproj",
+        "projectPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1.test\\Lecture10_1.test.csproj",
         "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1.test\\obj\\",
+        "outputPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1.test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj": {
-                "projectPath": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj"
+              "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj": {
+                "projectPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj"
               }
             }
           }
@@ -91,18 +91,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj": {
+    "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj",
+        "projectUniqueName": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj",
         "projectName": "Lecture10_1",
-        "projectPath": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj",
+        "projectPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\Lecture10_1.csproj",
         "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\obj\\",
+        "outputPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -170,7 +170,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

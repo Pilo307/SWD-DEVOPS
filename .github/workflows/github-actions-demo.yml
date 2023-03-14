@@ -20,10 +20,12 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-      - name: Setup .NET Core
-        uses: actions/setup-dotnet@v1
-        with:
-          dotnet-version: '7.0.x'
+
+      - name: Install .NET SDK
+  		uses: actions/setup-dotnet@v1
+  	with:
+   	dotnet-version: '7.0' # replace with the latest version of .NET SDK that supports .NET 7.0
+
       - name: Restore dependencies
         run: cd Lecture10/Lecture10 && dotnet restore
       - name: Build
