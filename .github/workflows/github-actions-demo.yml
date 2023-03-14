@@ -1,4 +1,4 @@
-name: GitHub Actions Demos
+name: GitHub Actions Demo
 on:
   push:
     branches:
@@ -31,8 +31,8 @@ jobs:
       - name: Run NUnit tests
         run: cd ./Lecture10/Lecture10 && dotnet test --filter Category=Unit --logger "trx;LogFileName=test_results.xml"
       - name: Upload test results
-	uses: actions/upload-artifact@v2
-      	with:
+        uses: actions/upload-artifact@v3
+        with:
           name: Test results
           path: test_results.xml
       - run: echo "🍏 This job's status is ${{ job.status }}."
