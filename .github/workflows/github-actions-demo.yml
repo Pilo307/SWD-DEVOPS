@@ -1,11 +1,9 @@
 name: GitHub Actions Demo
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-on: 
- push:
-  branches: 
-   - main
-   - feature/*
-  
+on:
+  push:
+    branches:
+      - main
+      - feature/*
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
@@ -20,16 +18,16 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-   build-and-test:
-     runs-on: windows-latest
-     steps:
-      	- uses: actions/checkout@v2
-  	- name: Check .NET SDK version
-          run: dotnet --version
-      	- name: Restore dependencies
-          run: cd ./Lecture10/Lecture10 && dotnet restore
-      	- name: Build
-          run: cd ./Lecture10/Lecture10 && dotnet build --configuration Release
-      	- name: Run NUnit tests
-          run: cd ./Lecture10/Lecture10 && dotnet test --filter Category=Unit
-        - run: echo "🍏 This job's status is ${{ job.status }}."
+  build-and-test:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Check .NET SDK version
+        run: dotnet --version
+      - name: Restore dependencies
+        run: cd ./Lecture10/Lecture10 && dotnet restore
+      - name: Build
+        run: cd ./Lecture10/Lecture10 && dotnet build --configuration Release
+      - name: Run NUnit tests
+        run: cd ./Lecture10/Lecture10 && dotnet test --filter Category=Unit
+      - run: echo "🍏 This job's status is ${{ job.status }}."
