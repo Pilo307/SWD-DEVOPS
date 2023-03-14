@@ -30,7 +30,8 @@ jobs:
 
       - name: Build
         run: cd ./Lecture10/Lecture10 && dotnet build --configuration Release
+
       - name: Run NUnit tests
-        run: dotnet test --filter Category=Unit
+        run: cd ./Lecture10/Lecture10 && dotnet test --filter Category=Unit
 
       - run: echo "🍏 This job's status is ${{ job.status }}."
