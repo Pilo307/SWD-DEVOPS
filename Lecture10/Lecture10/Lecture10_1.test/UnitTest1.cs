@@ -1,5 +1,6 @@
 namespace Lecture10_1.test
 {
+    [Category("Unit")]
     public class Tests
     {
         private Flashlight myFlashlight = new Flashlight();
