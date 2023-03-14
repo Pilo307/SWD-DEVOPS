@@ -34,5 +34,5 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Test results
-          path: ./Lecture10/Lecture10/TestResults/test_results.xml
+          path: /Lecture10/Lecture10/TestResults/test_results.xml
       - run: echo "🍏 This job's status is ${{ job.status }}."
