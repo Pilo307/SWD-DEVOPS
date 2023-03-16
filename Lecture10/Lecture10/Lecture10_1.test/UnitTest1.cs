@@ -19,7 +19,7 @@ namespace Lecture10_1.test
             StringWriter stringWriter = new StringWriter();
 
             Console.SetOut(stringWriter);
-            pofkdspofpodsfpdskfpo
+            
             myFlashlight.PowerPressed();
 
             string consoleOutput = stringWriter.ToString();
