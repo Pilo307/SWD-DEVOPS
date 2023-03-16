@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj": {}
+    "C:\\Users\\Simon\\Documents\\GitHub\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj": {}
   },
   "projects": {
-    "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj": {
+    "C:\\Users\\Simon\\Documents\\GitHub\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj",
+        "projectUniqueName": "C:\\Users\\Simon\\Documents\\GitHub\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj",
         "projectName": "Lecture10",
-        "projectPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj",
-        "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
-        "outputPath": "C:\\WORK\\git\\swd\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\obj\\",
+        "projectPath": "C:\\Users\\Simon\\Documents\\GitHub\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\Lecture10.csproj",
+        "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Simon\\Documents\\GitHub\\SWD-DEVOPS\\Lecture10\\Lecture10\\Lecture10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
